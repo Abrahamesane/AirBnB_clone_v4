@@ -155,7 +155,7 @@ No known bugs at this time.__
 
 ## Authors
 Alfredo Kalu Orie - [Github](https://github.com/xclusivfred) / [Twitter](https://twitter.com/Alfredkhay)
-user 2 - [Github](https://github.com/user2) / [Twitter](https://twitter.com/user2)
+Bereket Abebe - [Github](https://github.com/berialx) / [Twitter](https://twitter.com/beri_tweets)
 
 Third part of Airbnb: Jhoan Stiven Zamora
 ## License
