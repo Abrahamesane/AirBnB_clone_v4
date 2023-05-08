@@ -155,7 +155,7 @@ No known bugs at this time.__
 
 ## Authors
 Ofeinmu Abraham - [Github](https://github.com/abrahamesane) / [Twitter](https://twitter.com/abrahamesane)
- Precious Okafor - 
+
 
 Third part of Airbnb: Jhoan Stiven Zamora
 ## License
