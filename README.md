@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.__
 
 ## Authors
-Alfredo Kalu Orie - [Github](https://github.com/xclusivfred) / [Twitter](https://twitter.com/Alfredkhay)
-Bereket Abebe - [Github](https://github.com/berialx) / [Twitter](https://twitter.com/beri_tweets)
+Ofeinmu Abraham - [Github](https://github.com/abrahamesane) / [Twitter](https://twitter.com/abrahamesane)
+ Precious Okafor - 
 
 Third part of Airbnb: Jhoan Stiven Zamora
 ## License
@@ -166,7 +166,7 @@ Public Domain. No copy write protection.
 ================================
 
 -   By Guillaume, CTO at Holberton School
--   Project to be done in teams of 2 people (My team: Arsene Awounou, Kennedy Kalaluka)
+-   Project to be done in teams of 2 people (My team:  Precious Okafor, Nashville Ofeinmu)
 
 Concepts
 --------
